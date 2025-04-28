@@ -1,6 +1,5 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-### NAME:RAJAMANIKANDAN R
-### REG NO:212223220082
+
 # AIM
 To write a python program for creating Chat using TCP Sockets Links.
 # ALGORITHM:
